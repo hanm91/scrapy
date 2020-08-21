@@ -5,6 +5,7 @@
       <mapping pattern="test_5_2" type="PLAIN_TEXT" />
       <mapping pattern="practice_4_4.py" type="PLAIN_TEXT" />
       <mapping pattern="maim" type="PLAIN_TEXT" />
+      <mapping ext="db" type="SQL" />
     </extensionMap>
   </component>
 </application>
